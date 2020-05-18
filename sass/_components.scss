@@ -18,7 +18,8 @@
   }
 
   &__icon {
-
+    height: 2rem;
+    width: 2rem;
   }
 }
 
@@ -31,7 +32,8 @@
   }
 
   &__icon {
-
+      width: 2.25rem;
+      height: 2.25rem;
   }
 
   &__notification {
@@ -39,7 +41,8 @@
   }
 
   &__user {
-
+    height: 3.75rem;
+    border-radius: 50%;
   }
 
   &__user-photo {
@@ -47,6 +50,6 @@
   }
 
   &__user-name {
-    
+
   }
 }
